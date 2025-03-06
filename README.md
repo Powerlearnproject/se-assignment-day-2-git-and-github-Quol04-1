@@ -90,11 +90,11 @@ A commit in Git is a snapshot of changes made to a repository at a specific poin
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 A branch in Git is an independent line of development that allows multiple developers to work on different features or fixes without affecting the main codebase.
-Why is Branching Important?
+   Why is Branching Important?
  Enables Parallel Development – Different team members can work on different features simultaneously.
  Prevents Code Conflicts – Developers work in isolated branches before merging changes.
  Supports Experimentation – New ideas can be tested without affecting the main project.
- Facilitates Code Review – Changes can be reviewed via pull requests before merging into the main branch
+ Facilitates Code Review – Changes can be reviewed via pull requests before merging into the main branch.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
